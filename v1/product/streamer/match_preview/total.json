@@ -1,3 +1,7 @@
 {
-  "key": "string value"
+  "scheduleMonths": [
+    "2023-06",
+    "2023-07",
+    "2023-08"
+  ]
 }
