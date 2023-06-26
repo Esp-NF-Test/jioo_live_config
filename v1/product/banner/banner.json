@@ -1,0 +1,19 @@
+{
+  "content": {
+    "en": {
+      "images": [
+        "https://nf-discover.oss-cn-hongkong.aliyuncs.com/jioo_live/v1/prod/banner/en/banner_202306261448.jpg"
+      ]
+    },
+    "cn": {
+      "images": [
+        "https://nf-discover.oss-cn-hongkong.aliyuncs.com/jioo_live/v1/prod/banner/cn/banner_202306261448.jpg"
+      ]
+    },
+    "tw": {
+      "images": [
+        "https://nf-discover.oss-cn-hongkong.aliyuncs.com/jioo_live/v1/prod/banner/tw/banner_202306261448.jpg"
+      ]
+    }
+  }
+}
