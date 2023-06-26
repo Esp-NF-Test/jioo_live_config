@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2023/02/19",
+    "streamer": "安那",
+    "provider": "幣蜂",
+    "video": "https://glocmbi.accordde.com/Video/16123/video.m3u8",
+    "poster": "https://glocmbi.accordde.com/Video/16123/poster.jpg",
+    "title": {
+      "tw": "曼城再奪英超榜首",
+      "cn": "曼城再夺英超榜首",
+      "en": "Manchester City top the EPL again"
+    }
+  },
+  {
+    "date": "2023/02/26",
+    "streamer": "安琪",
+    "provider": "DG",
+    "video": "https://glocmbi.accordde.com/Video/16123/video.m3u8",
+    "poster": "https://glocmbi.accordde.com/Video/16123/poster.jpg",
+    "title": {
+      "tw": "歐冠喜劇效果拉滿",
+      "cn": "欧冠喜剧效果拉满",
+      "en": "The comedy effect of the Champions League is full"
+    }
+  }
+]
