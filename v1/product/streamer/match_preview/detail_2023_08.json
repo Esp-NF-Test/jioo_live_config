@@ -2,21 +2,37 @@
   {
     "eventDate": "2023-08-01",
     "eventTime": "10:00",
+    "sport": "Soccer",
+    "league": "LEAGUES CUP (IN USA & CANADA)",
+    "homeTeam": "Guadalajara Chivas",
+    "awayTeam": "Sporting Kansas City",
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": "",
-    "chatroom": ""
+    "matchId": ""
   },
   {
     "eventDate": "2023-08-01",
     "eventTime": "10:00",
+    "sport": "Soccer",
+    "league": "LEAGUES CUP (IN USA & CANADA)",
+    "homeTeam": "Guadalajara Chivas",
+    "awayTeam": "Sporting Kansas City",
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
-    "crId": "",
-    "chatroom": ""
+    "matchId": ""
+  },
+  {
+    "eventDate": "2023-08-01",
+    "eventTime": "10:00",
+    "sport": "Soccer",
+    "league": "LEAGUES CUP (IN USA & CANADA)",
+    "homeTeam": "Guadalajara Chivas",
+    "awayTeam": "Sporting Kansas City",
+    "language": "TH",
+    "streamer": "",
+    "provider": "NB (Thai)",
+    "matchId": ""
   }
 ]
