@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "streamer": "焦糖",
+      "provider": "幣蜂",
+      "timestamp": "2023-06-27T09:00:00",
+      "text": "這是第一篇動態牆文字內容。",
+      "images": [
+        "image1.jpg",
+        "image2.jpg"
+      ]
+    },
+    {
+      "streamer": "焦糖",
+      "provider": "幣蜂",
+      "timestamp": "2023-06-26T14:30:00",
+      "text": "這是第二篇動態牆文字內容。",
+      "images": [
+        "image3.jpg"
+      ]
+    },
+    {
+      "streamer": "焦糖",
+      "provider": "幣蜂",
+      "timestamp": "2023-06-25T18:45:00",
+      "text": "這是第三篇動態牆文字內容。",
+      "images": []
+    }
+  ]
+}
