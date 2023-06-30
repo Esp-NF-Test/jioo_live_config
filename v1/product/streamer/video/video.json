@@ -1,6 +1,6 @@
 [
   {
-    "date": "2023/02/19",
+    "date": "2023-02-19",
     "streamer": "安那",
     "provider": "幣蜂",
     "video": "https://glocmbi.accordde.com/Video/16123/video.m3u8",
@@ -12,7 +12,7 @@
     }
   },
   {
-    "date": "2023/02/26",
+    "date": "2023-02-26 13:27:00+08:00",
     "streamer": "安琪",
     "provider": "DG",
     "video": "https://glocmbi.accordde.com/Video/16123/video.m3u8",
@@ -21,6 +21,18 @@
       "tw": "歐冠喜劇效果拉滿",
       "cn": "欧冠喜剧效果拉满",
       "en": "The comedy effect of the Champions League is full"
+    }
+  },
+  {
+    "date": "2023-07-01 00:30+08:00",
+    "streamer": "雲英",
+    "provider": "幣蜂",
+    "video": "https://glocmbi.accordde.com/Video/16123/video.m3u8",
+    "poster": "https://glocmbi.accordde.com/Video/16123/poster.jpg",
+    "title": {
+      "tw": "JiooLive 效果拉滿",
+      "cn": "JiooLive 效果拉满",
+      "en": "JiooLive effect of the Champions League is full"
     }
   }
 ]
