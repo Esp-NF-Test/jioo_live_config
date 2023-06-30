@@ -2181,7 +2181,7 @@
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69491093"
   },
   {
     "eventDate": "2023-06-29",
@@ -2193,7 +2193,7 @@
     "language": "CN",
     "streamer": "焦糖",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69491093"
   },
   {
     "eventDate": "2023-06-29",
@@ -2205,7 +2205,7 @@
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69360639"
   },
   {
     "eventDate": "2023-06-29",
@@ -2217,7 +2217,7 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69360639"
   },
   {
     "eventDate": "2023-06-29",
@@ -2229,7 +2229,7 @@
     "language": "VN",
     "streamer": "Emily",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "68634918"
   },
   {
     "eventDate": "2023-06-29",
@@ -2241,7 +2241,7 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "68634918"
   },
   {
     "eventDate": "2023-06-30",
@@ -2253,7 +2253,7 @@
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69360640"
   },
   {
     "eventDate": "2023-06-30",
@@ -2265,7 +2265,7 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69360640"
   },
   {
     "eventDate": "2023-06-30",
@@ -2277,7 +2277,7 @@
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69528721"
   },
   {
     "eventDate": "2023-06-30",
@@ -2289,7 +2289,7 @@
     "language": "CN",
     "streamer": "焦糖",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69528721"
   },
   {
     "eventDate": "2023-06-30",
@@ -2301,7 +2301,7 @@
     "language": "VN",
     "streamer": "Jasmins",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69360637"
   },
   {
     "eventDate": "2023-06-30",
@@ -2313,7 +2313,7 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69360637"
   },
   {
     "eventDate": "2023-06-30",
@@ -2325,78 +2325,78 @@
     "language": "TH",
     "streamer": "Baifern",
     "provider": "NB (Thai)",
-    "matchId": ""
+    "matchId": "69360637"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "12:30",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Lebanon",
+    "awayTeam": "Chinese Taipei",
     "language": "VN",
     "streamer": "Jasmins",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69680341"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "12:30",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Lebanon",
+    "awayTeam": "Chinese Taipei",
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69680341"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "15:00",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "New Zealand ",
+    "awayTeam": "Philippines ",
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69680343"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "15:00",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "New Zealand ",
+    "awayTeam": "Philippines ",
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69680343"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "17:30",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Australia",
+    "awayTeam": "Korea",
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "69680342"
   },
   {
     "eventDate": "2023-06-30",
     "eventTime": "17:30",
     "sport": "Basketball",
     "league": "FIBA Women's Asia Cup",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Australia",
+    "awayTeam": "Korea",
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "69680342"
   }
 ]
