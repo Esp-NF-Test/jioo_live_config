@@ -111,6 +111,30 @@
       "tag": "#不只會唱歌 #推單跟我就對了",
       "about": "陪大家一起观看体育赛事～一起聊一起嗨",
       "provider": "DG_VN"
+    },
+    {
+      "streamer": "Anita",
+      "avatar": "https://images.pexels.com/photos/1405973/pexels-photo-1405973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "locale": "CN",
+      "tag": "#不只會唱歌 #推單跟我就對了",
+      "about": "陪大家一起观看体育赛事～一起聊一起嗨",
+      "provider": "幣蜂"
+    },
+    {
+      "streamer": "Mie",
+      "avatar": "https://images.pexels.com/photos/3484670/pexels-photo-3484670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "locale": "VN",
+      "tag": "#不只會唱歌 #推單跟我就對了",
+      "about": "陪大家一起观看体育赛事～一起聊一起嗨",
+      "provider": "DG_VN"
+    },
+    {
+      "streamer": "Ellie",
+      "avatar": "https://images.pexels.com/photos/3482526/pexels-photo-3482526.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "locale": "VN",
+      "tag": "#不只會唱歌 #推單跟我就對了",
+      "about": "陪大家一起观看体育赛事～一起聊一起嗨",
+      "provider": "DG_VN"
     }
   ]
 }
