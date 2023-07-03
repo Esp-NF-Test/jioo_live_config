@@ -1,4 +1,4 @@
-[
+[  
   {
     "eventDate": "2023-07-01",
     "eventTime": "07:30",
@@ -10,7 +10,7 @@
     "streamer": "雲英",
     "provider": "幣蜂",
     "matchId": "69580392"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "07:30",
@@ -19,10 +19,10 @@
     "homeTeam": "Atlanta Dream",
     "awayTeam": "Washington Mystics",
     "language": "CN",
-    "streamer": "",
-    "provider": "DG",
+    "streamer": "奈絲",
+    "provider": "幣蜂",
     "matchId": "69580392"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "08:30",
@@ -34,7 +34,7 @@
     "streamer": "彩瑩",
     "provider": "幣蜂",
     "matchId": "69360641"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "08:30",
@@ -46,7 +46,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": "69360641"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "08:30",
@@ -55,34 +55,34 @@
     "homeTeam": "El Salvador",
     "awayTeam": "Costa Rica",
     "language": "TH",
-    "streamer": "Praw",
+    "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
     "matchId": "69360641"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "15:00",
     "sport": "Basketball",
     "league": "FIBA Women Asia Cup ",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Japan",
+    "awayTeam": "New Zealand",
     "language": "VN",
     "streamer": "雲英",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69763875"
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "15:00",
     "sport": "Basketball",
     "league": "FIBA Women Asia Cup ",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "Japan",
+    "awayTeam": "New Zealand",
     "language": "CN",
     "streamer": "  Anita",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69763875"
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "17:00",
@@ -91,10 +91,10 @@
     "homeTeam": "Nagoya Grampus",
     "awayTeam": "Kawasaki  Frontale",
     "language": "VN",
-    "streamer": "Ruby",
+    "streamer": "雲英",
     "provider": "幣蜂",
     "matchId": "68885735"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "17:00",
@@ -106,7 +106,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": "68885735"
-  },
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "18:00",
@@ -115,22 +115,22 @@
     "homeTeam": "FC Tokyo",
     "awayTeam": "Kashiwa Reysol",
     "language": "VN",
-    "streamer": "Kay Lin",
+    "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "68885741"
+  },	
   {
     "eventDate": "2023-07-01",
     "eventTime": "22:00",
     "sport": "Soccer",
     "league": "SAFF CHAMPIONSHIP (IN INDIA)",
-    "homeTeam": "1st ranked Group B",
-    "awayTeam": "2nd ranked Group A",
+    "homeTeam": "Lebanon",
+    "awayTeam": "India",
     "language": "VN",
     "streamer": "Kay Lin",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "69717437"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "09:30",
@@ -141,8 +141,8 @@
     "language": "VN",
     "streamer": "雲英",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69360642"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "09:30",
@@ -153,32 +153,32 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
-  },
+    "matchId": "69360642"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "13:00",
     "sport": "Basketball",
     "league": "FIBA Women Asia Cup ",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "China",
+    "awayTeam": "Japan",
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69817090"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "13:00",
     "sport": "Basketball",
     "league": "FIBA Women Asia Cup ",
-    "homeTeam": "TBC",
-    "awayTeam": "TBC",
+    "homeTeam": "China",
+    "awayTeam": "Japan",
     "language": "CN",
     "streamer": " Anita",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69817090"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "17:30",
@@ -189,8 +189,8 @@
     "language": "VN",
     "streamer": "彩瑩",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69719629"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "17:30",
@@ -201,8 +201,8 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": ""
-  },
+    "matchId": "69719629"
+  },	
   {
     "eventDate": "2023-07-02",
     "eventTime": "18:00",
@@ -211,10 +211,10 @@
     "homeTeam": "Yokohama F Marinos",
     "awayTeam": "Shonan Bellmare",
     "language": "VN",
-    "streamer": "Mie Barbie",
+    "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "68885733"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "06:00",
@@ -225,8 +225,8 @@
     "language": "VN",
     "streamer": "Emily",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69804092"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "06:00",
@@ -237,8 +237,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
-  },
+    "matchId": "69804092"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "07:00",
@@ -247,10 +247,10 @@
     "homeTeam": "USA",
     "awayTeam": "Trinidad & Tobago",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ellie",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "69360733"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "09:00",
@@ -259,10 +259,10 @@
     "homeTeam": "Honduras",
     "awayTeam": "Haiti",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ellie",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "69360737"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "09:00",
@@ -273,8 +273,8 @@
     "language": "VN",
     "streamer": "Jasmins",
     "provider": "幣蜂",
-    "matchId": ""
-  },
+    "matchId": "69360739"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "09:00",
@@ -285,8 +285,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
-  },
+    "matchId": "69360739"
+  },	
   {
     "eventDate": "2023-07-03",
     "eventTime": "19:35",
@@ -295,10 +295,10 @@
     "homeTeam": "Shandong Taishan",
     "awayTeam": "Shanghai Port FC",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Mie",
     "provider": "DG_VN",
-    "matchId": ""
-  },
+    "matchId": "69719630"
+  },	
   {
     "eventDate": "2023-07-05",
     "eventTime": "08:30",
@@ -307,10 +307,10 @@
     "homeTeam": "Panama",
     "awayTeam": "El Salvador",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ellie",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-05",
     "eventTime": "18:00",
@@ -319,10 +319,10 @@
     "homeTeam": "Oita Trinita",
     "awayTeam": "FC Machida Zelvia",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ellie",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-06",
     "eventTime": "10:00",
@@ -334,7 +334,7 @@
     "streamer": "Jasmins",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-06",
     "eventTime": "10:00",
@@ -346,7 +346,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-06",
     "eventTime": "15:00",
@@ -358,7 +358,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-06",
     "eventTime": "15:00",
@@ -370,7 +370,7 @@
     "streamer": "  奈絲",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-07",
     "eventTime": "09:30",
@@ -382,7 +382,7 @@
     "streamer": "Jasmins",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-07",
     "eventTime": "09:30",
@@ -391,10 +391,10 @@
     "homeTeam": "Winner Semifinal 1",
     "awayTeam": "Winner Semifinal 2",
     "language": "CN",
-    "streamer": "安琪",
+    "streamer": "子希",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-07",
     "eventTime": "15:00",
@@ -406,7 +406,7 @@
     "streamer": "Jasmins",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-07",
     "eventTime": "15:00",
@@ -418,7 +418,7 @@
     "streamer": " 奈絲",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-07",
     "eventTime": "18:00",
@@ -427,10 +427,10 @@
     "homeTeam": "Albirex Niigata",
     "awayTeam": "Vissel Kobe",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ohee",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "08:00",
@@ -442,7 +442,7 @@
     "streamer": " 雲英",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "08:00",
@@ -454,7 +454,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "17:00",
@@ -466,7 +466,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "17:00",
@@ -478,7 +478,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "18:00",
@@ -487,10 +487,10 @@
     "homeTeam": "Kawasaki  Frontale",
     "awayTeam": "Yokohama FC",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ellie",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "19:35",
@@ -502,7 +502,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-08",
     "eventTime": "19:35",
@@ -514,7 +514,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-09",
     "eventTime": "07:00",
@@ -526,7 +526,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-09",
     "eventTime": "09:30",
@@ -535,10 +535,10 @@
     "homeTeam": "1st ranked Group B",
     "awayTeam": "2nd ranked Group C",
     "language": "VN",
-    "streamer": " ",
+    "streamer": "Ellie",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-09",
     "eventTime": "09:30",
@@ -550,7 +550,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-09",
     "eventTime": "20:30",
@@ -562,7 +562,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-09",
     "eventTime": "20:30",
@@ -574,7 +574,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-10",
     "eventTime": "05:00",
@@ -586,7 +586,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-10",
     "eventTime": "07:30",
@@ -598,7 +598,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-10",
     "eventTime": "08:00",
@@ -610,7 +610,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-10",
     "eventTime": "08:00",
@@ -622,7 +622,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-11",
     "eventTime": "20:30",
@@ -634,7 +634,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-11",
     "eventTime": "20:30",
@@ -646,7 +646,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-12",
     "eventTime": "06:00",
@@ -658,7 +658,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-12",
     "eventTime": "17:30",
@@ -670,7 +670,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-12",
     "eventTime": "23:00",
@@ -682,7 +682,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-12",
     "eventTime": "23:00",
@@ -694,7 +694,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-12",
     "eventTime": "23:00",
@@ -703,10 +703,10 @@
     "homeTeam": "Manchester United",
     "awayTeam": "Leeds United",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-13",
     "eventTime": "10:00",
@@ -718,7 +718,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-13",
     "eventTime": "10:00",
@@ -730,7 +730,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-13",
     "eventTime": "15:00",
@@ -742,7 +742,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-13",
     "eventTime": "15:00",
@@ -754,7 +754,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-14",
     "eventTime": "15:00",
@@ -766,7 +766,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-14",
     "eventTime": "15:00",
@@ -778,7 +778,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "12:00",
@@ -790,7 +790,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "13:00",
@@ -802,7 +802,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "13:00",
@@ -814,7 +814,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "18:00",
@@ -826,7 +826,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "18:00",
@@ -838,7 +838,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "21:00",
@@ -850,7 +850,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "21:00",
@@ -862,7 +862,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-15",
     "eventTime": "21:00",
@@ -871,10 +871,10 @@
     "homeTeam": "Perth Glory",
     "awayTeam": "West Ham United",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "00:00",
@@ -886,7 +886,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "00:00",
@@ -898,7 +898,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "08:30",
@@ -910,7 +910,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "08:30",
@@ -922,7 +922,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "14:00",
@@ -934,7 +934,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "14:00",
@@ -946,7 +946,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "18:00",
@@ -958,7 +958,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "18:00",
@@ -970,7 +970,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "20:45",
@@ -982,7 +982,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-16",
     "eventTime": "20:45",
@@ -994,7 +994,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-17",
     "eventTime": "02:15",
@@ -1006,7 +1006,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-17",
     "eventTime": "02:15",
@@ -1018,7 +1018,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-17",
     "eventTime": "07:30",
@@ -1030,7 +1030,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-17",
     "eventTime": "07:30",
@@ -1042,7 +1042,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-17",
     "eventTime": "07:30",
@@ -1051,10 +1051,10 @@
     "homeTeam": "Winner Semi-final 1",
     "awayTeam": "Winner Semi-final 2",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-18",
     "eventTime": "19:00",
@@ -1066,7 +1066,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-18",
     "eventTime": "19:00",
@@ -1078,7 +1078,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-18",
     "eventTime": "19:00",
@@ -1087,10 +1087,10 @@
     "homeTeam": "Tottenham Hotspur",
     "awayTeam": "West Ham United",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "00:15",
@@ -1102,7 +1102,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "00:15",
@@ -1114,7 +1114,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "02:45",
@@ -1126,7 +1126,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "02:45",
@@ -1138,7 +1138,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "10:00",
@@ -1150,7 +1150,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "10:00",
@@ -1162,7 +1162,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "21:00",
@@ -1174,7 +1174,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "21:00",
@@ -1186,7 +1186,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-19",
     "eventTime": "21:00",
@@ -1195,10 +1195,10 @@
     "homeTeam": "Manchester United",
     "awayTeam": "Olympique Lyonnais",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "02:15",
@@ -1210,7 +1210,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "02:15",
@@ -1222,7 +1222,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "15:00",
@@ -1234,7 +1234,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "15:00",
@@ -1246,7 +1246,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "15:00",
@@ -1255,10 +1255,10 @@
     "homeTeam": "New Zealand (W)",
     "awayTeam": "Norway (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "18:00",
@@ -1270,7 +1270,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "18:00",
@@ -1282,7 +1282,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-20",
     "eventTime": "18:00",
@@ -1291,10 +1291,10 @@
     "homeTeam": "Australia (W)",
     "awayTeam": "Ireland (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "10:30",
@@ -1306,7 +1306,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "10:30",
@@ -1318,7 +1318,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "13:00",
@@ -1330,7 +1330,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "13:00",
@@ -1342,7 +1342,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "13:00",
@@ -1351,10 +1351,10 @@
     "homeTeam": "Philippines (W)",
     "awayTeam": "Switzerland (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "15:30",
@@ -1366,7 +1366,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "15:30",
@@ -1375,10 +1375,10 @@
     "homeTeam": "Spain (W)",
     "awayTeam": "Costa Rica (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-21",
     "eventTime": "15:30",
@@ -1390,7 +1390,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "02:30",
@@ -1402,7 +1402,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "02:30",
@@ -1414,7 +1414,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "09:00",
@@ -1426,7 +1426,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "09:00",
@@ -1435,10 +1435,10 @@
     "homeTeam": "USA (W)",
     "awayTeam": "Vietnam (W)",
     "language": "CN",
-    "streamer": "",
+    "streamer": "子希",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "15:00",
@@ -1450,7 +1450,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "15:00",
@@ -1462,7 +1462,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "15:00",
@@ -1471,10 +1471,10 @@
     "homeTeam": "Zambia (W)",
     "awayTeam": "Japan (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "17:30",
@@ -1486,7 +1486,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "17:30",
@@ -1495,10 +1495,10 @@
     "homeTeam": "England (W)",
     "awayTeam": "Haiti (W)",
     "language": "CN",
-    "streamer": "",
+    "streamer": "子希",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "17:30",
@@ -1507,10 +1507,10 @@
     "homeTeam": "England (W)",
     "awayTeam": "Haiti (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "20:00",
@@ -1522,7 +1522,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "20:00",
@@ -1534,7 +1534,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-22",
     "eventTime": "20:00",
@@ -1543,10 +1543,10 @@
     "homeTeam": "Denmark (W)",
     "awayTeam": "China (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "03:00",
@@ -1558,7 +1558,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "03:00",
@@ -1570,7 +1570,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "07:00",
@@ -1582,7 +1582,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "07:00",
@@ -1594,7 +1594,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "12:00",
@@ -1606,7 +1606,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "12:00",
@@ -1618,19 +1618,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-23",
-    "eventTime": "12:00",
-    "sport": "Soccer",
-    "league": "J LEAGUE WORLD CHALLENGE (IN JAPAN)",
-    "homeTeam": "Yokohama F Marinos",
-    "awayTeam": "Manchester City",
-    "language": "TH",
-    "streamer": "",
-    "provider": "NB (Thai)",
-    "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "13:00",
@@ -1642,7 +1630,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "13:00",
@@ -1654,7 +1642,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "13:00",
@@ -1663,10 +1651,10 @@
     "homeTeam": "Sweden (W)",
     "awayTeam": "South Africa (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "15:30",
@@ -1678,7 +1666,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "15:30",
@@ -1690,7 +1678,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "15:30",
@@ -1699,10 +1687,10 @@
     "homeTeam": "Netherlands (W)",
     "awayTeam": "Portugal (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "18:00",
@@ -1714,7 +1702,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "18:00",
@@ -1726,7 +1714,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "18:00",
@@ -1735,10 +1723,10 @@
     "homeTeam": "France (W)",
     "awayTeam": "Jamaica (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "21:00",
@@ -1750,7 +1738,7 @@
     "streamer": " ",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "21:00",
@@ -1762,7 +1750,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-23",
     "eventTime": "21:00",
@@ -1771,10 +1759,10 @@
     "homeTeam": "Real Madrid",
     "awayTeam": "AC Milan",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "00:30",
@@ -1786,7 +1774,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "00:30",
@@ -1798,7 +1786,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "03:00",
@@ -1810,7 +1798,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "03:00",
@@ -1822,7 +1810,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "14:00",
@@ -1834,7 +1822,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "14:00",
@@ -1846,7 +1834,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "14:00",
@@ -1855,10 +1843,10 @@
     "homeTeam": "Italy (W)",
     "awayTeam": "Argentina (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "16:30",
@@ -1870,7 +1858,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "16:30",
@@ -1882,7 +1870,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "16:30",
@@ -1891,10 +1879,10 @@
     "homeTeam": "Germany (W)",
     "awayTeam": "Morocco (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "19:00",
@@ -1906,7 +1894,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "19:00",
@@ -1918,7 +1906,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-24",
     "eventTime": "19:00",
@@ -1927,10 +1915,10 @@
     "homeTeam": "Brazil (W)",
     "awayTeam": "Panama (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "10:00",
@@ -1942,7 +1930,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "10:00",
@@ -1954,7 +1942,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "13:30",
@@ -1966,7 +1954,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "13:30",
@@ -1978,7 +1966,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "13:30",
@@ -1987,10 +1975,10 @@
     "homeTeam": "New Zealand (W)",
     "awayTeam": "Philippines (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "16:00",
@@ -2002,7 +1990,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "16:00",
@@ -2014,7 +2002,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "16:00",
@@ -2023,10 +2011,10 @@
     "homeTeam": "Switzerland (W)",
     "awayTeam": "Norway (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "21:00",
@@ -2038,7 +2026,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "21:00",
@@ -2050,7 +2038,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-25",
     "eventTime": "21:00",
@@ -2059,10 +2047,10 @@
     "homeTeam": "Paris Saint Germain",
     "awayTeam": "Al Nassr Riyadh",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "10:30",
@@ -2074,7 +2062,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "13:00",
@@ -2086,7 +2074,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "13:00",
@@ -2098,7 +2086,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "13:00",
@@ -2107,10 +2095,10 @@
     "homeTeam": "Japan (W)",
     "awayTeam": "Costa Rica (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "15:30",
@@ -2122,7 +2110,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "15:30",
@@ -2134,7 +2122,7 @@
     "streamer": "",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "15:30",
@@ -2143,10 +2131,10 @@
     "homeTeam": "Spain (W)",
     "awayTeam": "Zambia (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "18:30",
@@ -2158,7 +2146,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "18:30",
@@ -2170,19 +2158,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-26",
-    "eventTime": "18:30",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Bayern Munchen",
-    "awayTeam": "Manchester City",
-    "language": "TH",
-    "streamer": "",
-    "provider": "NB (Thai)",
-    "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "20:00",
@@ -2194,7 +2170,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "20:00",
@@ -2206,7 +2182,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-26",
     "eventTime": "20:00",
@@ -2215,10 +2191,10 @@
     "homeTeam": "Canada (W)",
     "awayTeam": "Ireland (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "00:00",
@@ -2230,7 +2206,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "00:00",
@@ -2242,7 +2218,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "02:15",
@@ -2254,7 +2230,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "02:15",
@@ -2266,7 +2242,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "09:00",
@@ -2278,7 +2254,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "09:00",
@@ -2290,7 +2266,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "09:00",
@@ -2299,10 +2275,10 @@
     "homeTeam": "USA (W)",
     "awayTeam": "Netherlands (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "10:30",
@@ -2314,7 +2290,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "10:30",
@@ -2323,22 +2299,10 @@
     "homeTeam": "Real Madrid",
     "awayTeam": "Manchester United",
     "language": "CN",
-    "streamer": "蜜蜜",
+    "streamer": "子希",
     "provider": "DG",
     "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-27",
-    "eventTime": "10:30",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Manchester United",
-    "language": "TH",
-    "streamer": "",
-    "provider": "NB (Thai)",
-    "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "15:30",
@@ -2350,7 +2314,7 @@
     "streamer": " ",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "15:30",
@@ -2362,7 +2326,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "15:30",
@@ -2371,10 +2335,10 @@
     "homeTeam": "Portugal (W)",
     "awayTeam": "Vietnam (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "18:00",
@@ -2386,7 +2350,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "18:00",
@@ -2398,7 +2362,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "18:00",
@@ -2407,10 +2371,10 @@
     "homeTeam": "Australia (W)",
     "awayTeam": "Nigeria (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "21:00",
@@ -2422,7 +2386,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "21:00",
@@ -2434,7 +2398,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-27",
     "eventTime": "21:00",
@@ -2443,10 +2407,10 @@
     "homeTeam": "Inter Milan",
     "awayTeam": "Al Nassr Riyadh",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "07:00",
@@ -2458,7 +2422,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "08:00",
@@ -2468,9 +2432,9 @@
     "awayTeam": "South Africa (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "08:00",
@@ -2479,10 +2443,10 @@
     "homeTeam": "Argentina (W)",
     "awayTeam": "South Africa (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "子希",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "08:00",
@@ -2491,10 +2455,10 @@
     "homeTeam": "Argentina (W)",
     "awayTeam": "South Africa (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "16:30",
@@ -2506,7 +2470,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "16:30",
@@ -2515,10 +2479,10 @@
     "homeTeam": "England (W)",
     "awayTeam": "Denmark (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "蜜蜜",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "16:30",
@@ -2527,10 +2491,10 @@
     "homeTeam": "England (W)",
     "awayTeam": "Denmark (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "19:00",
@@ -2540,9 +2504,9 @@
     "awayTeam": "Haiti (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "19:00",
@@ -2551,10 +2515,10 @@
     "homeTeam": "China (W)",
     "awayTeam": "Haiti (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "安琪",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "19:00",
@@ -2563,10 +2527,10 @@
     "homeTeam": "China (W)",
     "awayTeam": "Haiti (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-28",
     "eventTime": "21:00",
@@ -2578,7 +2542,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "08:00",
@@ -2590,7 +2554,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "08:00",
@@ -2602,7 +2566,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "15:30",
@@ -2612,45 +2576,45 @@
     "awayTeam": "Italy (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
-    "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "15:30",
-    "sport": "Soccer",
-    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
-    "homeTeam": "Sweden (W)",
-    "awayTeam": "Italy (W)",
-    "language": "CN",
-    "streamer": "",
-    "provider": "",
-    "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "15:30",
-    "sport": "Soccer",
-    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
-    "homeTeam": "Sweden (W)",
-    "awayTeam": "Italy (W)",
-    "language": "TH",
-    "streamer": "",
-    "provider": "NB (Thai)",
-    "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "18:00",
-    "sport": "Soccer",
-    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
-    "homeTeam": "France (W)",
-    "awayTeam": "Brazil (W)",
-    "language": "VN",
-    "streamer": " ",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
+  {
+    "eventDate": "2023-07-29",
+    "eventTime": "15:30",
+    "sport": "Soccer",
+    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
+    "homeTeam": "Sweden (W)",
+    "awayTeam": "Italy (W)",
+    "language": "CN",
+    "streamer": "子希",
+    "provider": "DG",
+    "matchId": ""
+  },	
+  {
+    "eventDate": "2023-07-29",
+    "eventTime": "15:30",
+    "sport": "Soccer",
+    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
+    "homeTeam": "Sweden (W)",
+    "awayTeam": "Italy (W)",
+    "language": "TH",
+    "streamer": "Praw",
+    "provider": "NB (Thai)",
+    "matchId": ""
+  },	
+  {
+    "eventDate": "2023-07-29",
+    "eventTime": "18:00",
+    "sport": "Soccer",
+    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
+    "homeTeam": "France (W)",
+    "awayTeam": "Brazil (W)",
+    "language": "VN",
+    "streamer": " ",
+    "provider": "幣蜂",
+    "matchId": ""
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "18:00",
@@ -2662,7 +2626,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "18:00",
@@ -2671,10 +2635,10 @@
     "homeTeam": "France (W)",
     "awayTeam": "Brazil (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "20:30",
@@ -2684,9 +2648,9 @@
     "awayTeam": "Jamaica (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "20:30",
@@ -2695,10 +2659,10 @@
     "homeTeam": "Panama (W)",
     "awayTeam": "Jamaica (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "子希",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "20:30",
@@ -2707,10 +2671,10 @@
     "homeTeam": "Panama (W)",
     "awayTeam": "Jamaica (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "21:00",
@@ -2722,7 +2686,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "21:00",
@@ -2734,19 +2698,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "21:00",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Madrid",
-    "language": "TH",
-    "streamer": "",
-    "provider": "NB (Thai)",
-    "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "23:00",
@@ -2758,7 +2710,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-29",
     "eventTime": "23:00",
@@ -2770,7 +2722,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "00:00",
@@ -2782,7 +2734,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "00:00",
@@ -2794,7 +2746,7 @@
     "streamer": "",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "00:00",
@@ -2803,10 +2755,10 @@
     "homeTeam": "Real Sociedad",
     "awayTeam": "Bayer 04 Leverkusen",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "10:30",
@@ -2818,7 +2770,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "12:30",
@@ -2828,9 +2780,9 @@
     "awayTeam": "Morocco (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "12:30",
@@ -2839,10 +2791,10 @@
     "homeTeam": "Korea Republic (W)",
     "awayTeam": "Morocco (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "蜜蜜",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "12:30",
@@ -2851,10 +2803,10 @@
     "homeTeam": "Korea Republic (W)",
     "awayTeam": "Morocco (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "15:00",
@@ -2864,9 +2816,9 @@
     "awayTeam": "Philippines (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "15:00",
@@ -2875,10 +2827,10 @@
     "homeTeam": "Norway (W)",
     "awayTeam": "Philippines (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "蜜蜜",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "15:00",
@@ -2887,10 +2839,10 @@
     "homeTeam": "Norway (W)",
     "awayTeam": "Philippines (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "17:30",
@@ -2902,7 +2854,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "17:30",
@@ -2914,7 +2866,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "17:30",
@@ -2923,10 +2875,10 @@
     "homeTeam": "Germany (W)",
     "awayTeam": "Colombia (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "21:00",
@@ -2938,7 +2890,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "21:00",
@@ -2950,7 +2902,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-30",
     "eventTime": "21:00",
@@ -2959,10 +2911,10 @@
     "homeTeam": "Manchester City",
     "awayTeam": "Atletico de Madrid",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "00:00",
@@ -2974,7 +2926,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "00:00",
@@ -2986,7 +2938,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "00:00",
@@ -2995,10 +2947,10 @@
     "homeTeam": "Aston Villa",
     "awayTeam": "Brentford",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "02:45",
@@ -3010,7 +2962,7 @@
     "streamer": " ",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "02:45",
@@ -3022,7 +2974,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "06:00",
@@ -3034,7 +2986,7 @@
     "streamer": " ",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "06:00",
@@ -3046,7 +2998,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "09:00",
@@ -3058,7 +3010,7 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "09:00",
@@ -3070,7 +3022,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "09:00",
@@ -3079,10 +3031,10 @@
     "homeTeam": "Manchester United",
     "awayTeam": "Borussia Dortmund",
     "language": "TH",
-    "streamer": " ",
+    "streamer": "Baifern",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "11:00",
@@ -3094,7 +3046,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "15:00",
@@ -3106,7 +3058,7 @@
     "streamer": "",
     "provider": "DG_VN",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "15:00",
@@ -3115,10 +3067,10 @@
     "homeTeam": "Japan (W)",
     "awayTeam": "Spain (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "安琪",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "15:00",
@@ -3127,10 +3079,10 @@
     "homeTeam": "Japan (W)",
     "awayTeam": "Spain (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "18:00",
@@ -3140,9 +3092,9 @@
     "awayTeam": "Canada (W)",
     "language": "VN",
     "streamer": "",
-    "provider": "",
+    "provider": "幣蜂",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "18:00",
@@ -3151,10 +3103,10 @@
     "homeTeam": "Australia (W)",
     "awayTeam": "Canada (W)",
     "language": "CN",
-    "streamer": "",
-    "provider": "",
+    "streamer": "安琪",
+    "provider": "DG",
     "matchId": ""
-  },
+  },	
   {
     "eventDate": "2023-07-31",
     "eventTime": "18:00",
@@ -3163,7 +3115,7 @@
     "homeTeam": "Australia (W)",
     "awayTeam": "Canada (W)",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Praw",
     "provider": "NB (Thai)",
     "matchId": ""
   }
