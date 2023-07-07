@@ -35,6 +35,15 @@
       "images": [
         "https://nfdcnapp.s3.ap-northeast-1.amazonaws.com/jioo_live/v1/product/resource/pics/street-pat-g38fc2d552_1280.jpeg"
       ]
+    },
+    {
+      "streamer": "安琪",
+      "provider": "DG",
+      "timestamp": "2023-07-04T00:00:00Z",
+      "text": "午夜，一位年輕女子獨自回家。走在安靜的街道上，她突然感覺有人跟在她身後，加快腳步。但無論她怎麽加速，那個身影總是緊跟其後。當她終於回頭一看，驚恐地發現，身後竟然沒有人，只有一雙空蕩蕩的鞋子。",
+      "images": [
+        "https://s.yimg.com/ny/api/res/1.2/lqHUAechND.ks4uBU50Qiw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTYwNjtjZj13ZWJw/https://media.zenfs.com/zh-Hant-HK/homerun/esquire.hk/6f08e81410c2fd16f0b24fc93a6a3973"
+      ]
     }
   ]
 }
