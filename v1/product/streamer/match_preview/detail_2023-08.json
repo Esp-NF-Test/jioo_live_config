@@ -9,7 +9,8 @@
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": ""
+    "matchId": "",
+    "crId": ""
   },
   {
     "eventDate": "2023-08-01",
@@ -21,7 +22,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": ""
+    "matchId": "",
+    "crId": ""
   },
   {
     "eventDate": "2023-08-01",
@@ -31,8 +33,9 @@
     "homeTeam": "Guadalajara Chivas",
     "awayTeam": "Sporting Kansas City",
     "language": "TH",
-    "streamer": "",
+    "streamer": "Yen",
     "provider": "NB (Thai)",
-    "matchId": ""
+    "matchId": "",
+    "crId": ""
   }
 ]
