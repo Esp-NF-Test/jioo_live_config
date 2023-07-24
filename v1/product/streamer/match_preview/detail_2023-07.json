@@ -1,4 +1,5 @@
-  {
+[
+    {
     "eventDate": "2023-07-01",
     "eventTime": "07:30",
     "sport": "Basketball",
@@ -3403,4 +3404,5 @@
     "provider": "NB (Thai)",
     "matchId": "",
     "crId": ""
-  },
+  }
+]
