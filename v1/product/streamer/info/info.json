@@ -135,6 +135,22 @@
       "tag": "#不只會唱歌 #推單跟我就對了",
       "about": "陪大家一起观看体育赛事～一起聊一起嗨",
       "provider": "DG_VN"
+    },
+    {
+      "streamer": "Apple",
+      "avatar": "https://images.pexels.com/photos/3785843/pexels-photo-3785843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "locale": "CN",
+      "tag": "#不只會唱歌 #推單跟我就對了",
+      "about": "陪大家一起观看体育赛事～一起聊一起嗨",
+      "provider": "幣蜂"
+    },
+    {
+      "streamer": "朵朵",
+      "avatar": "https://images.pexels.com/photos/3781557/pexels-photo-3781557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "locale": "CN",
+      "tag": "#不只會唱歌 #推單跟我就對了",
+      "about": "陪大家一起观看体育赛事～一起聊一起嗨",
+      "provider": "幣蜂"
     }
   ]
 }
