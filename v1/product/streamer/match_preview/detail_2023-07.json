@@ -1,5 +1,5 @@
 [
-    {
+  {
     "eventDate": "2023-07-01",
     "eventTime": "07:30",
     "sport": "Basketball",
@@ -1878,19 +1878,6 @@
     "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
     "homeTeam": "France (W)",
     "awayTeam": "Jamaica (W)",
-    "language": "VN",
-    "streamer": "",
-    "provider": "幣蜂",
-    "matchId": "67106081",
-    "crId": "57982971"
-  },
-  {
-    "eventDate": "2023-07-23",
-    "eventTime": "18:00",
-    "sport": "Soccer",
-    "league": "FIFA WOMENS WORLD CUP 2023 (IN AUSTRALIA & NEW ZEALAND)",
-    "homeTeam": "France (W)",
-    "awayTeam": "Jamaica (W)",
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
@@ -2048,8 +2035,8 @@
     "homeTeam": "Germany (W)",
     "awayTeam": "Morocco (W)",
     "language": "CN",
-    "streamer": "圓圓",
-    "provider": "幣蜂",
+    "streamer": "安琪",
+    "provider": "DG",
     "matchId": "67106046",
     "crId": "57985635"
   },
@@ -2219,8 +2206,8 @@
     "language": "VN",
     "streamer": "Emily",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": "58050375"
+    "matchId": "70823821",
+    "crId": "58074423"
   },
   {
     "eventDate": "2023-07-25",
@@ -2232,8 +2219,8 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": "",
-    "crId": "58050375"
+    "matchId": "70823821",
+    "crId": "58074423"
   },
   {
     "eventDate": "2023-07-25",
@@ -2245,8 +2232,8 @@
     "language": "TH",
     "streamer": "Praw",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": "58050375"
+    "matchId": "70823821",
+    "crId": "58074423"
   },
   {
     "eventDate": "2023-07-26",
@@ -2258,7 +2245,7 @@
     "language": "VN",
     "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": "",
+    "matchId": "70826214",
     "crId": "58050381"
   },
   {
@@ -2386,7 +2373,7 @@
     "homeTeam": "Canada (W)",
     "awayTeam": "Ireland (W)",
     "language": "CN",
-    "streamer": "子希",
+    "streamer": "安琪",
     "provider": "DG",
     "matchId": "67106064",
     "crId": "57991451"
@@ -2414,8 +2401,8 @@
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": ""
+    "matchId": "70859825",
+    "crId": "58050382"
   },
   {
     "eventDate": "2023-07-27",
@@ -2427,8 +2414,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "70859825",
+    "crId": "58050382"
   },
   {
     "eventDate": "2023-07-27",
@@ -2440,7 +2427,7 @@
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": "",
+    "matchId": "70859824",
     "crId": "58050386"
   },
   {
@@ -2453,7 +2440,7 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
+    "matchId": "70859824",
     "crId": "58050386"
   },
   {
@@ -2466,20 +2453,7 @@
     "language": "VN",
     "streamer": "Jasmins",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": "58050390"
-  },
-  {
-    "eventDate": "2023-07-27",
-    "eventTime": "08:30",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Manchester United",
-    "language": "CN",
-    "streamer": "子希",
-    "provider": "DG",
-    "matchId": "",
+    "matchId": "70742725",
     "crId": "58050390"
   },
   {
@@ -2492,7 +2466,7 @@
     "language": "VN",
     "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": "",
+    "matchId": "67106038",
     "crId": "57993930"
   },
   {
@@ -2505,7 +2479,7 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
+    "matchId": "67106038",
     "crId": "57993930"
   },
   {
@@ -2518,7 +2492,7 @@
     "language": "TH",
     "streamer": "Praw/Yen",
     "provider": "NB (Thai)",
-    "matchId": "",
+    "matchId": "67106038",
     "crId": "57993930"
   },
   {
@@ -2531,7 +2505,7 @@
     "language": "VN",
     "streamer": "Mie",
     "provider": "DG_VN",
-    "matchId": "",
+    "matchId": "67106058",
     "crId": "57993925"
   },
   {
@@ -2544,7 +2518,7 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
+    "matchId": "67106058",
     "crId": "57993925"
   },
   {
@@ -2557,7 +2531,7 @@
     "language": "TH",
     "streamer": "Baifern",
     "provider": "NB (Thai)",
-    "matchId": "",
+    "matchId": "67106058",
     "crId": "57993925"
   },
   {
@@ -2570,7 +2544,7 @@
     "language": "VN",
     "streamer": "Mie",
     "provider": "DG_VN",
-    "matchId": "",
+    "matchId": "67106053",
     "crId": "57993924"
   },
   {
@@ -2583,7 +2557,7 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": "",
+    "matchId": "67106053",
     "crId": "57993924"
   },
   {
@@ -2596,12 +2570,12 @@
     "language": "TH",
     "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
-    "matchId": "",
+    "matchId": "67106053",
     "crId": "57993924"
   },
   {
     "eventDate": "2023-07-27",
-    "eventTime": "21:00",
+    "eventTime": "18:20",
     "sport": "Soccer",
     "league": "CLUB FRIENDLY",
     "homeTeam": "Inter Milan",
@@ -2609,34 +2583,21 @@
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": ""
+    "matchId": "70941794",
+    "crId": "58050387"
   },
   {
     "eventDate": "2023-07-27",
-    "eventTime": "21:00",
+    "eventTime": "18:20",
     "sport": "Soccer",
     "league": "CLUB FRIENDLY",
     "homeTeam": "Inter Milan",
     "awayTeam": "Al Nassr Riyadh",
     "language": "CN",
-    "streamer": "安琪",
+    "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
-  },
-  {
-    "eventDate": "2023-07-27",
-    "eventTime": "21:00",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Inter Milan",
-    "awayTeam": "Al Nassr Riyadh",
-    "language": "TH",
-    "streamer": "Praw",
-    "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
+    "matchId": "70941794",
+    "crId": "58050387"
   },
   {
     "eventDate": "2023-07-28",
@@ -2648,8 +2609,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "70723747",
+    "crId": "58066025"
   },
   {
     "eventDate": "2023-07-28",
@@ -2661,8 +2622,8 @@
     "language": "VN",
     "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106033",
+    "crId": "57997291"
   },
   {
     "eventDate": "2023-07-28",
@@ -2674,8 +2635,8 @@
     "language": "CN",
     "streamer": "子希",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106033",
+    "crId": "57997291"
   },
   {
     "eventDate": "2023-07-28",
@@ -2687,8 +2648,8 @@
     "language": "TH",
     "streamer": "Praw",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106033",
+    "crId": "57997291"
   },
   {
     "eventDate": "2023-07-28",
@@ -2698,10 +2659,10 @@
     "homeTeam": "England (W)",
     "awayTeam": "Denmark (W)",
     "language": "VN",
-    "streamer": "Mie",
+    "streamer": "Ohee",
     "provider": "DG_VN",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106067",
+    "crId": "57997279"
   },
   {
     "eventDate": "2023-07-28",
@@ -2713,8 +2674,8 @@
     "language": "CN",
     "streamer": "蜜蜜",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106067",
+    "crId": "57997279"
   },
   {
     "eventDate": "2023-07-28",
@@ -2726,8 +2687,21 @@
     "language": "TH",
     "streamer": "Baifern",
     "provider": "NB (Thai)",
+    "matchId": "67106067",
+    "crId": "57997279"
+  },
+  {
+    "eventDate": "2023-07-28",
+    "eventTime": "18:20",
+    "sport": "Soccer",
+    "league": "CLUB FRIENDLY",
+    "homeTeam": "Paris Saint Germain",
+    "awayTeam": "Cerezo Osaka",
+    "language": "VN",
+    "streamer": "Fay",
+    "provider": "DG_VN",
     "matchId": "",
-    "crId": ""
+    "crId": "58092689"
   },
   {
     "eventDate": "2023-07-28",
@@ -2737,10 +2711,10 @@
     "homeTeam": "China (W)",
     "awayTeam": "Haiti (W)",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Emily",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106060",
+    "crId": "57997271"
   },
   {
     "eventDate": "2023-07-28",
@@ -2752,8 +2726,8 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106060",
+    "crId": "57997271"
   },
   {
     "eventDate": "2023-07-28",
@@ -2765,21 +2739,8 @@
     "language": "TH",
     "streamer": "Baifern/Yen",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
-  },
-  {
-    "eventDate": "2023-07-28",
-    "eventTime": "21:00",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Paris Saint Germain",
-    "awayTeam": "Cerezo Osaka",
-    "language": "VN",
-    "streamer": "Mie",
-    "provider": "DG_VN",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106060",
+    "crId": "57997271"
   },
   {
     "eventDate": "2023-07-29",
@@ -2789,10 +2750,10 @@
     "homeTeam": "Dallas Wings",
     "awayTeam": "Washington Mystics",
     "language": "VN",
-    "streamer": "",
+    "streamer": "彩瑩",
     "provider": "幣蜂",
     "matchId": "",
-    "crId": ""
+    "crId": "58069141"
   },
   {
     "eventDate": "2023-07-29",
@@ -2805,7 +2766,7 @@
     "streamer": "蜜蜜",
     "provider": "DG",
     "matchId": "",
-    "crId": ""
+    "crId": "58069141"
   },
   {
     "eventDate": "2023-07-29",
@@ -2815,10 +2776,10 @@
     "homeTeam": "Sweden (W)",
     "awayTeam": "Italy (W)",
     "language": "VN",
-    "streamer": "Ohee",
+    "streamer": "Tini",
     "provider": "DG_VN",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106035",
+    "crId": "58001010"
   },
   {
     "eventDate": "2023-07-29",
@@ -2830,8 +2791,8 @@
     "language": "CN",
     "streamer": "子希",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106035",
+    "crId": "58001010"
   },
   {
     "eventDate": "2023-07-29",
@@ -2843,8 +2804,8 @@
     "language": "TH",
     "streamer": "Praw",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106035",
+    "crId": "58001010"
   },
   {
     "eventDate": "2023-07-29",
@@ -2854,10 +2815,10 @@
     "homeTeam": "France (W)",
     "awayTeam": "Brazil (W)",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Ruby",
     "provider": "幣蜂",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106086",
+    "crId": "58000963"
   },
   {
     "eventDate": "2023-07-29",
@@ -2869,8 +2830,8 @@
     "language": "CN",
     "streamer": "安琪",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106086",
+    "crId": "58000963"
   },
   {
     "eventDate": "2023-07-29",
@@ -2882,8 +2843,8 @@
     "language": "TH",
     "streamer": "Praw",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106086",
+    "crId": "58000963"
   },
   {
     "eventDate": "2023-07-29",
@@ -2895,8 +2856,8 @@
     "language": "VN",
     "streamer": "Mie",
     "provider": "DG_VN",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106062",
+    "crId": "58000918"
   },
   {
     "eventDate": "2023-07-29",
@@ -2908,8 +2869,8 @@
     "language": "CN",
     "streamer": "子希",
     "provider": "DG",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106062",
+    "crId": "58000918"
   },
   {
     "eventDate": "2023-07-29",
@@ -2921,47 +2882,21 @@
     "language": "TH",
     "streamer": "Baifern",
     "provider": "NB (Thai)",
-    "matchId": "",
-    "crId": ""
+    "matchId": "67106062",
+    "crId": "58000918"
   },
   {
     "eventDate": "2023-07-29",
-    "eventTime": "21:00",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Madrid",
+    "eventTime": "23:00",
+    "sport": "Basketball",
+    "league": "FIBA EuroBasket 2025 Pre-Qualifiers",
+    "homeTeam": "Bulgaria",
+    "awayTeam": "Norway",
     "language": "VN",
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": "",
-    "crId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "21:00",
-    "sport": "Soccer",
-    "league": "CLUB FRIENDLY",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Madrid",
-    "language": "CN",
-    "streamer": "安琪",
-    "provider": "DG",
-    "matchId": "",
-    "crId": ""
-  },
-  {
-    "eventDate": "2023-07-29",
-    "eventTime": "23:00",
-    "sport": "Basketball",
-    "league": "FIBA EuroBasket 2025 Pre-Qualifiers",
-    "homeTeam": "Bulgaria",
-    "awayTeam": "Norway",
-    "language": "VN",
-    "streamer": "",
-    "provider": "幣蜂",
-    "matchId": "",
-    "crId": ""
+    "crId": "58069166"
   },
   {
     "eventDate": "2023-07-29",
@@ -2974,7 +2909,7 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": "",
-    "crId": ""
+    "crId": "58069166"
   },
   {
     "eventDate": "2023-07-30",
@@ -2984,7 +2919,7 @@
     "homeTeam": "Real Sociedad",
     "awayTeam": "Bayer 04 Leverkusen",
     "language": "VN",
-    "streamer": "Ruby",
+    "streamer": "Emily",
     "provider": "幣蜂",
     "matchId": "",
     "crId": ""
@@ -3014,6 +2949,32 @@
     "provider": "NB (Thai)",
     "matchId": "",
     "crId": ""
+  },
+  {
+    "eventDate": "2023-07-30",
+    "eventTime": "05:00",
+    "sport": "Soccer",
+    "league": "CLUB FRIENDLY",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Madrid",
+    "language": "VN",
+    "streamer": "Emily",
+    "provider": "幣蜂",
+    "matchId": "",
+    "crId": "58092691"
+  },
+  {
+    "eventDate": "2023-07-30",
+    "eventTime": "05:00",
+    "sport": "Soccer",
+    "league": "CLUB FRIENDLY",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Madrid",
+    "language": "CN",
+    "streamer": "安琪",
+    "provider": "DG",
+    "matchId": "",
+    "crId": "58092691"
   },
   {
     "eventDate": "2023-07-30",
@@ -3023,7 +2984,7 @@
     "homeTeam": "L.A Galaxy",
     "awayTeam": "Vancouver Whitecaps FC",
     "language": "VN",
-    "streamer": "Mie",
+    "streamer": "Ohee",
     "provider": "DG_VN",
     "matchId": "",
     "crId": ""
@@ -3036,7 +2997,7 @@
     "homeTeam": "Korea Republic (W)",
     "awayTeam": "Morocco (W)",
     "language": "VN",
-    "streamer": "Ohee",
+    "streamer": "Mie",
     "provider": "DG_VN",
     "matchId": "",
     "crId": ""
@@ -3075,7 +3036,7 @@
     "homeTeam": "Norway (W)",
     "awayTeam": "Philippines (W)",
     "language": "VN",
-    "streamer": "",
+    "streamer": "Emily",
     "provider": "幣蜂",
     "matchId": "",
     "crId": ""
@@ -3147,7 +3108,7 @@
   },
   {
     "eventDate": "2023-07-30",
-    "eventTime": "21:00",
+    "eventTime": "19:00",
     "sport": "Soccer",
     "league": "CLUB FRIENDLY",
     "homeTeam": "Manchester City",
@@ -3156,11 +3117,11 @@
     "streamer": "Ruby",
     "provider": "幣蜂",
     "matchId": "",
-    "crId": ""
+    "crId": "58092692"
   },
   {
     "eventDate": "2023-07-30",
-    "eventTime": "21:00",
+    "eventTime": "19:00",
     "sport": "Soccer",
     "league": "CLUB FRIENDLY",
     "homeTeam": "Manchester City",
@@ -3169,11 +3130,11 @@
     "streamer": "安琪",
     "provider": "DG",
     "matchId": "",
-    "crId": ""
+    "crId": "58092692"
   },
   {
     "eventDate": "2023-07-30",
-    "eventTime": "21:00",
+    "eventTime": "19:00",
     "sport": "Soccer",
     "league": "CLUB FRIENDLY",
     "homeTeam": "Manchester City",
@@ -3322,7 +3283,7 @@
     "homeTeam": "Tigres UANL",
     "awayTeam": "San Jose Earthquakes",
     "language": "VN",
-    "streamer": "Mie",
+    "streamer": "Sofia",
     "provider": "DG_VN",
     "matchId": "",
     "crId": ""
